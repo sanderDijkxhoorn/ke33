@@ -1,5 +1,5 @@
 ##vervang dit
-bot_key="NTIwODY1OTY2OTI2NzI1MTIx.Du0F9A.JnHICv997wmGle12HjBDiFxB88E"
+bot_key="NTIwOTAyMjAzNzAwMDE5MjEw.DvwTdA.qIq_u-osmhYrWVoJeVT7Pz7l2eE"
 default_role="RainbowRole"
 ##--------------------
 import discord
